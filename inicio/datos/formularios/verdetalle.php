@@ -281,7 +281,7 @@ try {
                         
                     </div>
                     <div class="form-group col-md-3">
-                        <label for="txtMarca">Fecha Seguimiento</label>
+                        <label for="txtMarca">Fecha Seguimiento del paciente</label>
                         <div class="form-control form-control-sm"> <?php echo $seguimiento['fechaseguimiento'] ?></div>
                     </div>
                     <div class="form-group col-md-3">
